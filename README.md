@@ -1,15 +1,15 @@
-<p align="center"><a href="https://t.me/EBD_QN"><img src="https://te.legra.ph/file/7abe179ff252aaabbf2a5.jpg"></a></p>
+<p align="center"><a href="https://t.me/EBD_QN"><img src="https://telegra.ph/file/df04d52c2c5c37f9e285f.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-# Aʟᴛʀᴏɴ 🖤
+# 𝙀𝘽𝘿 𝙌𝙉 🖤
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
 ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝗘𝗕𝗗~𝗤𝗡 🖤](https://t.me/EBD_QN)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 # Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
-ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴛʀᴏɴ​
+ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ 𝙴𝙱𝙳 𝚀𝙽
 
 - ⚠️ Do not forget to fork this repo. Else error can occur in deployment.
 
